@@ -1,0 +1,6 @@
+[core]
+    remote = art-remote
+['remote "art-remote"']
+    url = http://localhost:8081/artifactory/dvc-local
+    method = PUT
+    ask_password = true
